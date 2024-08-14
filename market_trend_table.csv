@@ -1,0 +1,101 @@
+MarketTrendID,ProductGroupID,TrendDescription,TrendStartDate,TrendEndDate,AnalysisBy,TrendType,TrendImpact,DataPointsCollected,MarketShareChange,RegionAffected
+1,10,Trend description 1,2021-04-06,2022-06-30,Analyst 7,Stable,Medium,185,-0.85,Asia
+2,1,Trend description 2,2021-06-18,2022-08-23,Analyst 11,Decline,High,224,1.85,Global
+3,7,Trend description 3,2021-03-25,2022-03-04,Analyst 9,Emerging,Low,229,-0.74,Global
+4,3,Trend description 4,2021-07-19,2022-05-27,Analyst 19,Decline,Low,126,-4.74,North America
+5,4,Trend description 5,2021-03-09,2022-12-10,Analyst 3,Emerging,Low,480,7.5,Asia
+6,10,Trend description 6,2021-06-25,2022-11-21,Analyst 5,Growth,Low,196,0.92,Europe
+7,3,Trend description 7,2021-12-20,2022-11-07,Analyst 18,Growth,Low,124,-2.32,North America
+8,7,Trend description 8,2021-06-09,2022-03-12,Analyst 17,Emerging,High,372,-3.51,North America
+9,3,Trend description 9,2021-09-15,2022-10-13,Analyst 18,Decline,High,466,9.25,North America
+10,4,Trend description 10,2021-01-18,2022-08-16,Analyst 5,Stable,Medium,79,1.98,Europe
+11,8,Trend description 11,2021-06-29,2022-04-07,Analyst 19,Emerging,High,217,7.07,Global
+12,6,Trend description 12,2021-08-26,2022-11-04,Analyst 4,Stable,Medium,65,-1.87,Europe
+13,9,Trend description 13,2021-11-22,2022-08-16,Analyst 14,Stable,Low,464,6.59,Global
+14,2,Trend description 14,2021-02-23,2022-07-24,Analyst 5,Emerging,Medium,201,6.98,North America
+15,7,Trend description 15,2021-04-27,2022-07-12,Analyst 11,Emerging,Medium,150,2.76,Global
+16,3,Trend description 16,2021-05-05,2022-02-08,Analyst 7,Stable,High,107,-2.39,Global
+17,8,Trend description 17,2021-08-01,2022-10-11,Analyst 5,Growth,High,119,-1.39,Asia
+18,1,Trend description 18,2021-11-23,2022-07-27,Analyst 19,Stable,Medium,89,6.45,North America
+19,6,Trend description 19,2021-07-13,2022-09-12,Analyst 15,Stable,Low,448,8.64,North America
+20,3,Trend description 20,2021-07-17,2022-02-08,Analyst 14,Stable,High,433,3.04,Europe
+21,10,Trend description 21,2021-07-23,2022-09-20,Analyst 12,Growth,Low,279,-2.1,North America
+22,5,Trend description 22,2021-07-19,2022-10-21,Analyst 1,Decline,High,477,-2.96,Global
+23,10,Trend description 23,2021-10-22,2022-02-22,Analyst 10,Decline,Medium,277,0.41,North America
+24,5,Trend description 24,2021-04-16,2022-07-24,Analyst 16,Stable,Low,251,8.67,Global
+25,10,Trend description 25,2021-09-02,2022-01-18,Analyst 18,Stable,Low,280,-3.92,Asia
+26,3,Trend description 26,2021-03-30,2022-11-04,Analyst 18,Growth,Low,129,-1.26,Europe
+27,5,Trend description 27,2021-06-04,2022-08-18,Analyst 1,Growth,Medium,382,1.01,North America
+28,7,Trend description 28,2021-08-16,2022-02-11,Analyst 2,Decline,Low,268,2.83,Asia
+29,3,Trend description 29,2021-10-19,2022-08-31,Analyst 7,Emerging,High,487,-3.35,North America
+30,9,Trend description 30,2021-01-24,2022-06-05,Analyst 11,Stable,High,282,-3.0,Global
+31,1,Trend description 31,2021-04-23,2022-01-10,Analyst 6,Growth,Low,116,-1.41,Global
+32,7,Trend description 32,2021-11-25,2022-11-01,Analyst 3,Emerging,Low,380,6.1,Global
+33,9,Trend description 33,2021-07-31,2022-12-08,Analyst 3,Stable,Low,451,-3.63,Global
+34,7,Trend description 34,2021-02-24,2022-05-09,Analyst 9,Growth,High,163,-2.28,Global
+35,2,Trend description 35,2021-12-26,2022-10-29,Analyst 8,Emerging,Low,180,9.48,Europe
+36,9,Trend description 36,2021-12-16,2022-07-03,Analyst 2,Emerging,High,333,4.12,Europe
+37,8,Trend description 37,2021-08-29,2022-12-30,Analyst 9,Growth,Medium,53,4.44,North America
+38,1,Trend description 38,2021-11-14,2022-04-20,Analyst 2,Growth,High,313,9.25,Global
+39,6,Trend description 39,2021-06-14,2022-12-28,Analyst 15,Decline,Medium,144,8.75,Global
+40,4,Trend description 40,2021-07-08,2022-07-25,Analyst 1,Decline,Medium,70,2.69,Asia
+41,5,Trend description 41,2021-03-31,2022-11-02,Analyst 10,Emerging,Low,471,5.45,Global
+42,5,Trend description 42,2021-04-24,2022-10-25,Analyst 7,Stable,Low,277,6.62,Global
+43,6,Trend description 43,2021-01-09,2022-07-12,Analyst 6,Stable,Medium,224,7.13,North America
+44,5,Trend description 44,2021-12-14,2022-10-17,Analyst 10,Growth,Medium,146,2.62,North America
+45,4,Trend description 45,2021-10-27,2022-06-15,Analyst 13,Emerging,Low,434,5.83,Asia
+46,4,Trend description 46,2021-01-27,2022-12-08,Analyst 4,Stable,High,236,0.7,Asia
+47,10,Trend description 47,2021-03-01,2022-09-22,Analyst 7,Growth,Low,474,4.8,Europe
+48,9,Trend description 48,2021-03-23,2022-07-25,Analyst 11,Emerging,Low,370,0.96,North America
+49,1,Trend description 49,2021-01-27,2022-01-06,Analyst 12,Emerging,High,367,0.16,North America
+50,10,Trend description 50,2021-10-28,2022-12-03,Analyst 18,Stable,Medium,185,-0.68,North America
+51,2,Trend description 51,2021-09-17,2022-02-26,Analyst 3,Emerging,Low,323,3.66,Europe
+52,10,Trend description 52,2021-09-18,2022-03-07,Analyst 14,Emerging,Medium,57,2.78,North America
+53,6,Trend description 53,2021-01-05,2022-05-08,Analyst 16,Growth,Medium,234,2.38,Europe
+54,9,Trend description 54,2021-10-04,2022-12-27,Analyst 16,Growth,Medium,389,-3.04,Global
+55,9,Trend description 55,2021-07-24,2022-11-04,Analyst 6,Emerging,High,460,6.63,Global
+56,3,Trend description 56,2021-08-12,2022-07-21,Analyst 4,Emerging,High,493,-3.4,Global
+57,8,Trend description 57,2021-11-10,2022-10-31,Analyst 7,Emerging,High,238,-1.82,North America
+58,7,Trend description 58,2021-09-07,2022-05-08,Analyst 19,Decline,Low,462,5.6,Asia
+59,3,Trend description 59,2021-01-18,2022-02-18,Analyst 7,Growth,Low,408,9.27,Asia
+60,5,Trend description 60,2021-11-21,2022-12-26,Analyst 3,Decline,Medium,257,-2.39,Asia
+61,4,Trend description 61,2021-06-14,2022-06-24,Analyst 16,Growth,High,419,9.28,North America
+62,10,Trend description 62,2021-05-10,2022-11-24,Analyst 11,Stable,Low,251,-2.23,Asia
+63,1,Trend description 63,2021-10-03,2022-01-13,Analyst 1,Decline,Low,455,-1.46,Global
+64,5,Trend description 64,2021-04-04,2022-05-04,Analyst 18,Stable,Low,335,9.28,Asia
+65,5,Trend description 65,2021-01-30,2022-12-05,Analyst 5,Stable,Medium,202,3.67,Global
+66,10,Trend description 66,2021-01-21,2022-06-11,Analyst 5,Growth,High,222,-4.59,Global
+67,6,Trend description 67,2021-05-30,2022-04-23,Analyst 9,Growth,Low,237,4.09,North America
+68,7,Trend description 68,2021-10-16,2022-11-12,Analyst 9,Growth,High,417,5.78,North America
+69,5,Trend description 69,2021-02-27,2022-12-02,Analyst 15,Stable,Low,191,3.88,Asia
+70,7,Trend description 70,2021-06-18,2022-03-18,Analyst 12,Decline,High,360,-4.48,Europe
+71,8,Trend description 71,2021-08-02,2022-01-07,Analyst 6,Growth,High,405,-4.07,Global
+72,2,Trend description 72,2021-03-06,2022-11-19,Analyst 19,Emerging,Medium,277,-1.63,Global
+73,9,Trend description 73,2021-05-28,2022-03-18,Analyst 10,Stable,Low,324,4.17,North America
+74,4,Trend description 74,2021-02-26,2022-11-17,Analyst 18,Stable,Low,245,8.28,North America
+75,1,Trend description 75,2021-06-05,2022-03-18,Analyst 8,Emerging,Medium,349,6.67,Europe
+76,4,Trend description 76,2021-12-26,2022-10-06,Analyst 1,Decline,Low,316,-4.03,Global
+77,7,Trend description 77,2021-10-19,2022-06-20,Analyst 16,Emerging,High,145,-1.91,Global
+78,8,Trend description 78,2021-09-20,2022-02-06,Analyst 8,Decline,High,232,-4.28,Asia
+79,7,Trend description 79,2021-11-08,2022-02-27,Analyst 19,Growth,High,435,1.81,Global
+80,9,Trend description 80,2021-10-21,2022-04-11,Analyst 10,Growth,Low,483,5.99,Europe
+81,6,Trend description 81,2021-06-08,2022-09-26,Analyst 12,Emerging,Low,253,8.06,North America
+82,1,Trend description 82,2021-09-03,2022-11-15,Analyst 9,Decline,High,64,7.38,North America
+83,5,Trend description 83,2021-01-29,2022-02-06,Analyst 16,Stable,Low,348,6.09,Asia
+84,3,Trend description 84,2021-08-25,2022-11-09,Analyst 19,Decline,Low,443,0.26,Europe
+85,3,Trend description 85,2021-01-08,2022-12-17,Analyst 2,Decline,Low,242,0.75,Asia
+86,10,Trend description 86,2021-08-19,2022-09-30,Analyst 1,Decline,Low,62,-0.62,North America
+87,1,Trend description 87,2021-07-02,2022-11-08,Analyst 12,Decline,High,340,8.32,Asia
+88,8,Trend description 88,2021-01-25,2022-08-10,Analyst 10,Emerging,Low,163,4.07,Asia
+89,1,Trend description 89,2021-12-25,2022-07-15,Analyst 10,Stable,High,402,0.13,Asia
+90,2,Trend description 90,2021-03-23,2022-10-22,Analyst 5,Stable,Low,269,-1.45,Asia
+91,8,Trend description 91,2021-08-19,2022-12-05,Analyst 17,Emerging,Medium,480,0.37,Europe
+92,7,Trend description 92,2021-06-28,2022-05-09,Analyst 3,Stable,Low,137,-0.16,North America
+93,5,Trend description 93,2021-10-25,2022-04-21,Analyst 17,Growth,Low,322,0.84,North America
+94,7,Trend description 94,2021-07-23,2022-10-06,Analyst 15,Stable,High,400,-3.01,Europe
+95,1,Trend description 95,2021-02-10,2022-04-13,Analyst 17,Emerging,High,116,3.75,Europe
+96,10,Trend description 96,2021-03-10,2022-02-21,Analyst 8,Stable,High,414,9.05,Global
+97,2,Trend description 97,2021-12-15,2022-11-13,Analyst 8,Growth,Medium,240,1.93,North America
+98,10,Trend description 98,2021-10-27,2022-07-05,Analyst 8,Stable,Medium,147,5.04,Europe
+99,5,Trend description 99,2021-02-07,2022-12-22,Analyst 11,Stable,Medium,315,2.38,Asia
+100,3,Trend description 100,2021-03-26,2022-05-18,Analyst 14,Growth,Low,255,5.59,Europe
